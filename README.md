@@ -193,7 +193,7 @@ Thank you [michaelcontento](https://github.com/michaelcontento) for a great libr
   [Immutable]: https://github.com/facebook/immutable-js
   [redux-storage]: https://github.com/guns2410/redux-storage
   [react-native]: https://facebook.github.io/react-native/
-  [localStorage]: https://github.com/michaelcontento/redux-storage-engine-localStorage
+  [localStorage]: https://github.com/guns2410/redux-storage-engine-localStorage
   [localStorageFakePromise]: https://github.com/guns2410/redux-storage-engine-localStorageFakePromise
   [reactNativeAsyncStorage]: https://github.com/guns2410/redux-storage-engine-reactNativeAsyncStorage
   [LOAD]: https://github.com/guns2410/redux-storage/blob/master/src/constants.js#L1
