@@ -9,9 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/michaelcontento/redux-storage.git"
+    "url": "https://github.com/guns2410/redux-storage.git"
   },
-  "homepage": "https://github.com/michaelcontento/redux-storage",
+  "homepage": "https://github.com/guns2410/redux-storage",
   "keywords": [
     "redux",
     "redux-middleware",
@@ -23,7 +23,7 @@
     "data",
     "localstorage"
   ],
-  "author": "Michael Contento <michaelcontento@gmail.com>",
+  "author": "Guns <gunjan.soni2002@gmail.com>",
   "files": [
     "build/",
     "build-es/",
