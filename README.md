@@ -15,6 +15,8 @@ Save and load the [Redux][] state with ease.
 
 The original author of the package [redux-storage](https://github.com/michaelcontento/redux-storage) has decided to deprecate the project and no longer maintained. The package will now be maintained here.
 
+Thank you michaelcontento for a great library!
+
 ## Features
 
 * Flexible storage engines
@@ -163,7 +165,7 @@ const middleware = createMiddleware(engine, [], [ SHOULD_SAVE ]);
 
     The MIT License (MIT)
 
-    Copyright (c) 2015 Michael Contento
+    Copyright (c) 2015 Gunjan Soni
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
     this software and associated documentation files (the "Software"), to deal in
@@ -182,22 +184,22 @@ const middleware = createMiddleware(engine, [], [ SHOULD_SAVE ]);
     IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-  [merger-simple]: https://github.com/michaelcontento/redux-storage-merger-simple
-  [merger-immutablejs]: https://github.com/michaelcontento/redux-storage-merger-immutablejs
+  [merger-simple]: https://github.com/guns2410/redux-storage-merger-simple
+  [merger-immutablejs]: https://github.com/guns2410/redux-storage-merger-immutablejs
   [npm-engine]: https://www.npmjs.com/browse/keyword/redux-storage-engine
   [npm-decorator]: https://www.npmjs.com/browse/keyword/redux-storage-decorator
   [npm-merger]: https://www.npmjs.com/browse/keyword/redux-storage-merger
   [Redux]: https://github.com/gaearon/redux
   [Immutable]: https://github.com/facebook/immutable-js
-  [redux-storage]: https://github.com/michaelcontento/redux-storage
+  [redux-storage]: https://github.com/guns2410/redux-storage
   [react-native]: https://facebook.github.io/react-native/
   [localStorage]: https://github.com/michaelcontento/redux-storage-engine-localStorage
-  [localStorageFakePromise]: https://github.com/michaelcontento/redux-storage-engine-localStorageFakePromise
-  [reactNativeAsyncStorage]: https://github.com/michaelcontento/redux-storage-engine-reactNativeAsyncStorage
-  [LOAD]: https://github.com/michaelcontento/redux-storage/blob/master/src/constants.js#L1
-  [SAVE]: https://github.com/michaelcontento/redux-storage/blob/master/src/constants.js#L2
-  [debounce]: https://github.com/michaelcontento/redux-storage-decorator-debounce
+  [localStorageFakePromise]: https://github.com/guns2410/redux-storage-engine-localStorageFakePromise
+  [reactNativeAsyncStorage]: https://github.com/guns2410/redux-storage-engine-reactNativeAsyncStorage
+  [LOAD]: https://github.com/guns2410/redux-storage/blob/master/src/constants.js#L1
+  [SAVE]: https://github.com/guns2410/redux-storage/blob/master/src/constants.js#L2
+  [debounce]: https://github.com/guns2410/redux-storage-decorator-debounce
   [engines]: https://github.com/allegro/redux-storage-decorator-engines
-  [filter]: https://github.com/michaelcontento/redux-storage-decorator-filter
+  [filter]: https://github.com/guns2410/redux-storage-decorator-filter
   [migrate]: https://github.com/mathieudutour/redux-storage-decorator-migrate
-  [immutablejs]: https://github.com/michaelcontento/redux-storage-decorator-immutablejs
+  [immutablejs]: https://github.com/guns2410/redux-storage-decorator-immutablejs
