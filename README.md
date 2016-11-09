@@ -11,12 +11,6 @@
 
 Save and load the [Redux][] state with ease.
 
-# A fork of [michaelcontento/redux-storage](https://github.com/michaelcontento/redux-storage)
-
-The original author of the package [redux-storage](https://github.com/michaelcontento/redux-storage) has decided to deprecate the project and no longer maintained. The package will now be maintained here.
-
-Thank you michaelcontento for a great library!
-
 ## Features
 
 * Flexible storage engines
@@ -160,6 +154,12 @@ import { SHOULD_SAVE } from './constants';
 
 const middleware = createMiddleware(engine, [], [ SHOULD_SAVE ]);
 ```
+
+# A fork of [redux-storage](https://github.com/michaelcontento/redux-storage)
+
+The original author of the package [redux-storage](https://github.com/michaelcontento/redux-storage) has decided to deprecate the project and no longer maintained. The package will now be maintained here.
+
+Thank you [michaelcontento](https://github.com/michaelcontento) for a great library!
 
 ## License
 
