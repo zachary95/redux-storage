@@ -185,22 +185,22 @@ Thank you [michaelcontento](https://github.com/michaelcontento) for a great libr
     IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-  [merger-simple]: https://github.com/guns2410/redux-storage-merger-simple
-  [merger-immutablejs]: https://github.com/guns2410/redux-storage-merger-immutablejs
+  [merger-simple]: https://github.com/react-stack/redux-storage-merger-simple
+  [merger-immutablejs]: https://github.com/react-stack/redux-storage-merger-immutablejs
   [npm-engine]: https://www.npmjs.com/browse/keyword/redux-storage-engine
   [npm-decorator]: https://www.npmjs.com/browse/keyword/redux-storage-decorator
   [npm-merger]: https://www.npmjs.com/browse/keyword/redux-storage-merger
   [Redux]: https://github.com/gaearon/redux
   [Immutable]: https://github.com/facebook/immutable-js
-  [redux-storage]: https://github.com/guns2410/redux-storage
+  [redux-storage]: https://github.com/react-stack/redux-storage
   [react-native]: https://facebook.github.io/react-native/
-  [localStorage]: https://github.com/guns2410/redux-storage-engine-localStorage
-  [localStorageFakePromise]: https://github.com/guns2410/redux-storage-engine-localStorageFakePromise
-  [reactNativeAsyncStorage]: https://github.com/guns2410/redux-storage-engine-reactNativeAsyncStorage
-  [LOAD]: https://github.com/guns2410/redux-storage/blob/master/src/constants.js#L1
-  [SAVE]: https://github.com/guns2410/redux-storage/blob/master/src/constants.js#L2
-  [debounce]: https://github.com/guns2410/redux-storage-decorator-debounce
+  [localStorage]: https://github.com/react-stack/redux-storage-engine-localStorage
+  [localStorageFakePromise]: https://github.com/react-stack/redux-storage-engine-localStorageFakePromise
+  [reactNativeAsyncStorage]: https://github.com/react-stack/redux-storage-engine-reactNativeAsyncStorage
+  [LOAD]: https://github.com/react-stack/redux-storage/blob/master/src/constants.js#L1
+  [SAVE]: https://github.com/react-stack/redux-storage/blob/master/src/constants.js#L2
+  [debounce]: https://github.com/react-stack/redux-storage-decorator-debounce
   [engines]: https://github.com/allegro/redux-storage-decorator-engines
-  [filter]: https://github.com/guns2410/redux-storage-decorator-filter
+  [filter]: https://github.com/react-stack/redux-storage-decorator-filter
   [migrate]: https://github.com/mathieudutour/redux-storage-decorator-migrate
-  [immutablejs]: https://github.com/guns2410/redux-storage-decorator-immutablejs
+  [immutablejs]: https://github.com/react-stack/redux-storage-decorator-immutablejs
