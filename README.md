@@ -1,13 +1,12 @@
 # [redux-storage][]
 
-[![build](https://travis-ci.org/guns2410/redux-storage.svg?branch=master)](https://travis-ci.org/michaelcontento/redux-storage)
-[![dependencies](https://david-dm.org/guns2410/redux-storage.svg)](https://david-dm.org/michaelcontento/redux-storage)
-[![devDependencies](https://david-dm.org/guns2410/redux-storage/dev-status.svg)](https://david-dm.org/michaelcontento/redux-storage#info=devDependencies)
+[![build](https://travis-ci.org/guns2410/redux-storage.svg?branch=master)](https://travis-ci.org/react-stack/redux-storage)
+[![dependencies](https://david-dm.org/guns2410/redux-storage.svg)](https://david-dm.org/react-stack/redux-storage)
+[![devDependencies](https://david-dm.org/guns2410/redux-storage/dev-status.svg)](https://david-dm.org/react-stack/redux-storage#info=devDependencies)
 
 [![license](https://img.shields.io/npm/l/redux-storage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage)
 [![npm version](https://img.shields.io/npm/v/redux-storage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage)
 [![npm downloads](https://img.shields.io/npm/dm/redux-storage.svg?style=flat-square)](https://www.npmjs.com/package/redux-storage)
-[![Code Climate](https://codeclimate.com/github/guns2410/redux-storage/badges/gpa.svg)](https://codeclimate.com/github/michaelcontento/redux-storage)
 
 Save and load the [Redux][] state with ease.
 
