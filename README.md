@@ -16,6 +16,7 @@ Save and load the [Redux][] state with ease.
     * [localStorage][]: based on window.localStorage
         * Or for environments without `Promise` support [localStorageFakePromise][]
     * [reactNativeAsyncStorage][]: based on `react-native/AsyncStorage`
+    * [remoteEndpoint][]: save/load via XHR
 * Flexible state merger functions
     * [simple][merger-simple]: merge plain old JS structures (default)
     * [immutablejs][merger-immutablejs]: merge plain old JS **and** [Immutable][]
@@ -203,3 +204,4 @@ Thank you [michaelcontento](https://github.com/michaelcontento) for a great libr
   [filter]: https://github.com/react-stack/redux-storage-decorator-filter
   [migrate]: https://github.com/mathieudutour/redux-storage-decorator-migrate
   [immutablejs]: https://github.com/react-stack/redux-storage-decorator-immutablejs
+  [remoteEndpoint]: https://github.com/bionexo/redux-storage-engine-remoteendpoint
