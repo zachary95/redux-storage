@@ -13,6 +13,7 @@ Save and load the [Redux][] state with ease.
 ## Features
 
 * Flexible storage engines
+    * [indexedDb](https://github.com/prateekbh/redux-storage-engine-indexed-db): based on window.indexedDb
     * [localStorage][]: based on window.localStorage
         * Or for environments without `Promise` support [localStorageFakePromise][]
     * [reactNativeAsyncStorage][]: based on `react-native/AsyncStorage`
@@ -165,8 +166,8 @@ Thank you [michaelcontento](https://github.com/michaelcontento) for a great libr
 
     The MIT License (MIT)
 
-    Copyright (c) 2016- Gunjan Soni <gunjan.soni2002@gmail.com> 
-    Copyright (c) 2015-2016 Michael Contento <mail@michaelcontento.de> 
+    Copyright (c) 2016- Gunjan Soni <gunjan.soni2002@gmail.com>
+    Copyright (c) 2015-2016 Michael Contento <mail@michaelcontento.de>
 
     Permission is hereby granted, free of charge, to any person obtaining a copy of
     this software and associated documentation files (the "Software"), to deal in
